@@ -5,8 +5,6 @@
   <a href="https://portfolio-web-hamza.vercel.app/">hamza-protfolio.vercel.app</a>
 </p>
 
-[![Site preview](/public/social-image.png)](https://portfolio-web-hamza.vercel.app/)
-
 ## Prerequisites
 
 1. To run this project first clone and then:
