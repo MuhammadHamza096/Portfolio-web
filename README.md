@@ -2,10 +2,10 @@
 <br />
 <p align="center">
   <h1 align="center">Developer's Portfolio ✨</h1>
-  <a href="#">hamza-protfolio.vercel.app</a>
+  <a href="https://portfolio-web-hamza.vercel.app/">hamza-protfolio.vercel.app</a>
 </p>
 
-[![Site preview](/public/social-image.png)]https://portfolio-web-hamza.vercel.app/)
+[![Site preview](/public/social-image.png)](https://portfolio-web-hamza.vercel.app/)
 
 ## Prerequisites
 
