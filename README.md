@@ -5,7 +5,7 @@
   <a href="#">hamza-protfolio.vercel.app</a>
 </p>
 
-[![Site preview](/public/social-image.png)](https://hasnain-protfolio.vercel.app/)
+[![Site preview](/public/social-image.png)]https://portfolio-web-hamza.vercel.app/)
 
 ## Prerequisites
 
